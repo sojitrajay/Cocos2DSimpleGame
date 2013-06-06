@@ -2,8 +2,8 @@
 //  HelloWorldLayer.m
 //  Cocos2DSimpleGame
 //
-//  Created by Sima Hunani on 6/5/13.
-//  Copyright __MyCompanyName__ 2013. All rights reserved.
+//  Created by Jayesh Sojitra on 6/5/13.
+//  Copyright MySolutions 2013. All rights reserved.
 //
 
 

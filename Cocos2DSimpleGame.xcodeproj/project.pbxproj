@@ -404,13 +404,13 @@
 		630B11DC175F114500685EBD /* vec4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = vec4.c; path = libs/kazmath/src/vec4.c; sourceTree = "<group>"; };
 		630B11DE175F114500685EBD /* LICENSE_Kazmath.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE_Kazmath.txt; path = libs/LICENSE_Kazmath.txt; sourceTree = "<group>"; };
 		630B11E0175F114500685EBD /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
-		630B11E1175F114500685EBD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		630B11E3175F114500685EBD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		630B11E4175F114500685EBD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		630B11E6175F114500685EBD /* HelloWorldLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldLayer.h; sourceTree = "<group>"; };
-		630B11E7175F114500685EBD /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
-		630B11E9175F114500685EBD /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
-		630B11EA175F114500685EBD /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		630B11E1175F114500685EBD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = main.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		630B11E3175F114500685EBD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = AppDelegate.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		630B11E4175F114500685EBD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = AppDelegate.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		630B11E6175F114500685EBD /* HelloWorldLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = HelloWorldLayer.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		630B11E7175F114500685EBD /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = HelloWorldLayer.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		630B11E9175F114500685EBD /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = IntroLayer.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		630B11EA175F114500685EBD /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = IntroLayer.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		630B11F2175F138C00685EBD /* monster-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monster-hd.png"; sourceTree = "<group>"; };
 		630B11F3175F138C00685EBD /* monster.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster.png; sourceTree = "<group>"; };
 		630B11F4175F138C00685EBD /* player-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player-hd.png"; sourceTree = "<group>"; };
@@ -419,7 +419,7 @@
 		630B11F7175F138C00685EBD /* projectile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = projectile.png; sourceTree = "<group>"; };
 		630B11FF175F13AE00685EBD /* background-music-aac.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "background-music-aac.caf"; sourceTree = "<group>"; };
 		630B1200175F13AE00685EBD /* pew-pew-lei.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "pew-pew-lei.caf"; sourceTree = "<group>"; };
-		630B120E175F3F2500685EBD /* GameOverLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameOverLayer.h; sourceTree = "<group>"; };
+		630B120E175F3F2500685EBD /* GameOverLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = GameOverLayer.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		630B120F175F3F2500685EBD /* GameOverLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameOverLayer.m; sourceTree = "<group>"; };
 		630B1215175F544800685EBD /* player2-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "player2-hd.png"; path = "../player2-hd.png"; sourceTree = "<group>"; };
 		630B1216175F544800685EBD /* player2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player2.png; path = ../player2.png; sourceTree = "<group>"; };
@@ -1182,6 +1182,7 @@
 				630B11F0175F114500685EBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,8 +2,8 @@
 //  GameOverLayer.h
 //  Cocos2DSimpleGame
 //
-//  Created by Sima Hunani on 6/5/13.
-//  Copyright 2013 __MyCompanyName__. All rights reserved.
+//  Created by Jayesh Sojitra on 6/5/13.
+//  Copyright 2013 MySolutions. All rights reserved.
 //
 
 #import "cocos2d.h"
